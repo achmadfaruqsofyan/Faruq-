@@ -1,0 +1,22 @@
+.atas { 
+background-color : Pink;
+padding: 15px 0 15px 0; 
+}
+.skills {
+	color: black;
+}
+.panel {
+	background-color: pink;
+}
+
+
+.judul h1{
+	margin: 3% 0;
+}
+.item-project img{
+	margin: 2%;
+}
+.link a{
+	color:white;
+}
+	
